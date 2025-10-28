@@ -1,0 +1,5 @@
+{
+  "name": "Solar ROI",
+  "description": "Un panel interactivo para analizar la viabilidad financiera y el retorno de inversión (ROI) de la instalación de un sistema de techo solar. Permite a los usuarios ingresar costos, producción de energía y supuestos financieros para visualizar ahorros, período de recuperación y beneficios a largo plazo a través de gráficos y métricas detalladas.",
+  "requestFramePermissions": []
+}
